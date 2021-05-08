@@ -24,6 +24,7 @@ Solution:
 #include <deque>
 #include <unordered_set> // unordered_set, unordered_multiset
 #include <set> // set, multiset
+#include <bitset> // bitset
 #include <unordered_map> // unordered_map, unordered_multimap
 #include <map> // map, multimap
 #include <utility> // pair<>

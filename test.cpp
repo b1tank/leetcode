@@ -33,6 +33,9 @@ int main()
     } else {
         cout << "not eof" << endl;
     }
+
+    int i = 'A' - 'a';
+    cout << "i = " << i << endl;
         
     return 0;
 }
